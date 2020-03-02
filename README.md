@@ -1,5 +1,5 @@
 ## Intro-to-AI-Projects
-#Comp341 - Introduction to Artificial Intelligence Projects which are taken from Berkeley-CS-188
+Comp341 - Introduction to Artificial Intelligence Projects which are taken from Berkeley-CS-188
 
 ## Project 1: Search in Pacman
 Link: https://inst.eecs.berkeley.edu/~cs188/fa18/project1.html
